@@ -1,0 +1,53 @@
+header{
+	text-align: center;
+}
+
+#big-tittle{
+	font-size: 60px;
+	margin: 30px 0 0 0;
+
+}
+#subtittle{
+	font-style: italic;
+	margin: 0;
+}
+.featured{
+	margin: 20px 60px;
+	padding: 30px 30px;
+	background-color: #ccc; 
+
+}
+.featured-tittle{
+	font-family: Cambria;
+	font-size: 30px;
+	margin: 0;
+	font-weight: bold;
+	font-style: ila
+}
+.featured-excerpt{
+	font-size: 18px;
+}
+.news{
+	margin: 10px 60px;
+	padding: 20px 60px;
+	border: 1px solid #ccc;
+}
+.news-tittles{
+	font-size: 20px;
+}
+#principal{
+	padding: 25px;
+	margin: 10px 0px 0px 60px;
+	width: 40%;
+	border: 1px solid #ccc;
+	display: inline-block;
+	text-align: justify;
+}
+#articulo2{
+	padding: 25px;
+	margin: 10px 60px;
+	width: 40%;
+	border: 1px solid #ccc;
+	display: inline-block;
+	text-align: justify;
+}
